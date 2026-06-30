@@ -67,4 +67,4 @@ python /path/to/skill-creator/scripts/quick_validate.py skills/install-alf-24
 
 ## License
 
-No license has been selected yet. Choose and add a license before publishing publicly if you want other users to have explicit reuse rights.
+MIT License. See `LICENSE`.
