@@ -1,0 +1,5 @@
+interface:
+  display_name: "Install ALF 2.4"
+  short_description: "Set up ALF 2.4 and its conda environment"
+  default_prompt: "Use $install-alf-24 to install ALF 2.4 and prepare the ALFDQMC conda environment."
+

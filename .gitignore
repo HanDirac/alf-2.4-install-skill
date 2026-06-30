@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.venv/
+env/
+conda-meta/
+ALF/
+pyALF/
+ALF_data/
+*.log

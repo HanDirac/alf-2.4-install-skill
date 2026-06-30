@@ -1,0 +1,11 @@
+{
+  "name": "install-alf-24",
+  "version": "0.1.0",
+  "description": "Portable workflow for installing ALF 2.4, pyALF ALF-2.4, and an ALFDQMC conda environment.",
+  "codex_skill_path": "skills/install-alf-24",
+  "portable_instructions": "PORTABLE_AGENT_INSTRUCTIONS.md",
+  "entry_script": "skills/install-alf-24/scripts/prepare_alf24.py",
+  "requirements_reference": "skills/install-alf-24/references/alf24-requirements.md",
+  "default_conda_env_base": "ALFDQMC",
+  "requires_manual_system_prerequisites": true
+}
